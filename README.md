@@ -53,8 +53,3 @@ Aucune variable d'environnement n'est requise pour le moment.
 ![Fonctionnalité originale: comparaison météo entre deux villes](screens/compare.png)
 
 La gestion des favoris est visible depuis la page d'accueil ci-dessus.
-
-## Notes
-
-- Ne versionnez pas `node_modules`, les dossiers de build, les fichiers temporaires ou les secrets.
-- Conservez ces éléments dans `.gitignore` et utilisez les variables d'environnement pour toute configuration sensible.
